@@ -1,0 +1,2 @@
+# cedarlodge
+Static site: cedarlodge
